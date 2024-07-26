@@ -25,7 +25,7 @@
   margin: 0 auto; /* Centers the container horizontally */
   background-color: #fff; /* White background for the container */
   border-radius: 8px; /* Rounds the corners of the container */
-  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Adds a subtle shadow around the container */
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.7); /* Adds a subtle shadow around the container */
   padding: 20px; /* Adds padding inside the container */
 }
 
